@@ -1,0 +1,21 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #e7dede;
+}
+
+/* Container principal */
+.container{
+    max-width: 1100px;
+    background-color: #ffffff;
+    /* Centraliza container */
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+    border-radius: 5px;
+
+}
+
+/* Header */
+
+
+

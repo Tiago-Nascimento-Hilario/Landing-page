@@ -1,0 +1,11 @@
+.mais-informacoes a {
+    background-color: #dddddd;
+    border-style: none;
+    text-decoration: none;
+    padding: 10px;
+    color: blue;
+}
+.mais-informacoes :hover{
+    background-color: #9b9a9a;
+}
+
